@@ -1,0 +1,24 @@
+{
+  "name": "nam_reacts",
+  "version": "1.0.0",
+  "description": "- DEV BUILD",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.2",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.17"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
+    "@tailwindcss/postcss": "^4.0.17",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
